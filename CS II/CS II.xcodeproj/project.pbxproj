@@ -42,6 +42,7 @@
 			isa = PBXGroup;
 			children = (
 				14A08D9F2B7FB4C50028E365 /* CS II */,
+				14A08DA02B7FB4C50028E365 /* main.cpp */,
 				14A08D9E2B7FB4C50028E365 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +58,6 @@
 		14A08D9F2B7FB4C50028E365 /* CS II */ = {
 			isa = PBXGroup;
 			children = (
-				14A08DA02B7FB4C50028E365 /* main.cpp */,
 			);
 			path = "CS II";
 			sourceTree = "<group>";
